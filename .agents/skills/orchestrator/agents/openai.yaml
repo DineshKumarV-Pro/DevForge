@@ -1,0 +1,4 @@
+interface:
+  display_name: "Orchestrator"
+  short_description: "Plan and delegate clean subtasks"
+  default_prompt: "Use $orchestrator to plan this work and coordinate subagents."
