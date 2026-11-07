@@ -1530,6 +1530,402 @@
       "sourceType": "github",
       "skillPath": "skills/cc-slidev/SKILL.md",
       "computedHash": "610c107cd9e92c19818b63aa27ea360e6e5b2b324ad14cdfbb234a7c63aaa492"
+    },
+    "ce": {
+      "source": "commercengine/skills",
+      "sourceType": "github",
+      "skillPath": "skills/ce/SKILL.md",
+      "computedHash": "0aa1a56be4dcad9d7ea99527c79fa5aaaec5ede2fc47d4432252aafa883b0a1c"
+    },
+    "ce-ai": {
+      "source": "commercengine/skills",
+      "sourceType": "github",
+      "skillPath": "skills/ai/SKILL.md",
+      "computedHash": "eb1bca9d6209fbce0bb3e615d617ac8d789e0c665384a778aefb8a49119c2469"
+    },
+    "ce-auth": {
+      "source": "commercengine/skills",
+      "sourceType": "github",
+      "skillPath": "skills/auth/SKILL.md",
+      "computedHash": "0c488d4eda06fe98d3227b274138984edaa3ed52efcafa5ae6ce86cac7e2fbec"
+    },
+    "ce-cart-checkout": {
+      "source": "commercengine/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cart-checkout/SKILL.md",
+      "computedHash": "ac892455ef1a64b81c1b839d30fa61a9c5b531ae9487ee3a5006b3224166c7da"
+    },
+    "ce-catalog": {
+      "source": "commercengine/skills",
+      "sourceType": "github",
+      "skillPath": "skills/catalog/SKILL.md",
+      "computedHash": "a35d3cd1904158a905923e199f1a86bdea158c3755733ea615d62df43bab8670"
+    },
+    "ce-orders": {
+      "source": "commercengine/skills",
+      "sourceType": "github",
+      "skillPath": "skills/orders/SKILL.md",
+      "computedHash": "70bbab385b67abd6b023b520e8b16190c403cd11ff6c31c9d4f4e3ae51bc1ce2"
+    },
+    "ce-seo": {
+      "source": "commercengine/skills",
+      "sourceType": "github",
+      "skillPath": "skills/seo/SKILL.md",
+      "computedHash": "e9582f2b831eae207841381ac4d95f7b7650a841201f4a858c4496c4ec40793a"
+    },
+    "ce-setup": {
+      "source": "commercengine/skills",
+      "sourceType": "github",
+      "skillPath": "skills/setup/SKILL.md",
+      "computedHash": "e6452f4d3409239c7ffb2c611f1c57ff561a5bb95cdc9dd1b3397e4929d9156c"
+    },
+    "ce-ssr": {
+      "source": "commercengine/skills",
+      "sourceType": "github",
+      "skillPath": "skills/ssr/SKILL.md",
+      "computedHash": "f3db43975926fc47defe29180f90d16a32976a2d49ff8ddb1082e9e4a62a88bb"
+    },
+    "ce-ssr-patterns": {
+      "source": "commercengine/skills",
+      "sourceType": "github",
+      "skillPath": "skills/ssr-patterns/SKILL.md",
+      "computedHash": "6fac225ade89f3a85953e50e4efc27ab51f4b022c6f84cb29ba87ef16218baa3"
+    },
+    "ce-webhooks": {
+      "source": "commercengine/skills",
+      "sourceType": "github",
+      "skillPath": "skills/webhooks/SKILL.md",
+      "computedHash": "a6f6742c767821b7e61ef12dbdd48c082dc73f25c844b728c1ee7d9311590991"
+    },
+    "cf-cli": {
+      "source": "cloudflare/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cf-cli/SKILL.md",
+      "computedHash": "320aa2e08aa36e62612d3d16648d5cf658f8f39add6d4a464c5305fce56f9907"
+    },
+    "chadboyda-gtm": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/chadboyda-gtm/SKILL.md",
+      "computedHash": "a825321f3efdc02e0f0fcf9253406bcdc6349984d9b01ea9f12183a9966ad3b3"
+    },
+    "chaos-engineer": {
+      "source": "Emmraan/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/devops-cloud/chaos-engineer/SKILL.md",
+      "computedHash": "91d7644d7c882605a720b5ed2530376e30eb2ceb38d52e321ae91f0659a5d7b5"
+    },
+    "chaos-engineering": {
+      "source": "petrkindlmann/qa-skills",
+      "sourceType": "github",
+      "skillPath": "skills/chaos-engineering/SKILL.md",
+      "computedHash": "4de18a9f76b6a1cb45310bfdc2091c08619d5c3ea7fdc095a8750e0495890b2d"
+    },
+    "check-npm": {
+      "source": "grafana/skills",
+      "sourceType": "github",
+      "skillPath": "skills/grafana-plugins/check-npm/SKILL.md",
+      "computedHash": "b1d447c8646bc84c42e73894113419075a951d5955b705c7fdf979318d58149c"
+    },
+    "ci-cd-and-automation": {
+      "source": "dtgbao/agent-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/fullstack-dev/skills/ci-cd-and-automation/SKILL.md",
+      "computedHash": "11e6a4ded76243594e332a037aa7d7caaf7002c8cce8d5a06aee00e5fb6522d3"
+    },
+    "ci-cd-integration": {
+      "source": "petrkindlmann/qa-skills",
+      "sourceType": "github",
+      "skillPath": "skills/ci-cd-integration/SKILL.md",
+      "computedHash": "f3d3bc02b1ff0bed0984c070fc2e630def8e2293f304e74592dcd9f464a50b65"
+    },
+    "ci-cd-pipeline-generator": {
+      "source": "JPeetz/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/devops-infrastructure/ci-cd-pipeline-generator/SKILL.md",
+      "computedHash": "4377d74eced5066502b245fd8471c67e8542046ad2aba3f394d25af42fc6d6bd"
+    },
+    "ci-cd-security": {
+      "source": "superagent-ai/skills",
+      "sourceType": "github",
+      "skillPath": "skills/ci-cd-security/SKILL.md",
+      "computedHash": "09e7a76ca883e81fff96de8f951a273001a8360139157bacc91aa39f4f76fea3"
+    },
+    "cinematic-gsap-lenis-motion-system": {
+      "source": "getpoweredbyai/DesignSkills",
+      "sourceType": "github",
+      "skillPath": "agent-skills/web-design/cinematic-gsap-lenis-motion-system/SKILL.md",
+      "computedHash": "ed87c3a69b151141f1bf71ced1592272ac294c86a17b66dfa9326ee8c9ee6df2"
+    },
+    "cinematic-scroll-storytelling": {
+      "source": "getpoweredbyai/DesignSkills",
+      "sourceType": "github",
+      "skillPath": "agent-skills/web-design/cinematic-scroll-storytelling/SKILL.md",
+      "computedHash": "1300cdca67a0499e5756c59300ba57da865180e826ec66c208cfa51e933c2790"
+    },
+    "claud3": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/claud3/SKILL.md",
+      "computedHash": "fa54111c599d8469df625f416c4289d403140c8d70fba97fa2b265c4caf926a2"
+    },
+    "claude-pm-skills": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/claude-pm-skills/SKILL.md",
+      "computedHash": "858e45e23d272220d4a1fcae784e4a42b4eabc966475c5ac0beba4b598b91fca"
+    },
+    "claude-wireframe-skill": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/claude-wireframe-skill/SKILL.md",
+      "computedHash": "6abdbd557be452ae2522499e134bc966102f95b0f011fadf40fb05860f2bf450"
+    },
+    "claude2figma": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/claude2figma/SKILL.md",
+      "computedHash": "a8551cf431d2b6d3355e0dbf20fee598faac23ac808672870a49c287f89131f3"
+    },
+    "claudedesignskills": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/claudedesignskills/SKILL.md",
+      "computedHash": "43efafac5eafe3090de7e3b032a4a2cce29892df8bcd3d11686f52bcee09c59d"
+    },
+    "clean-minimal-beige-light-mode": {
+      "source": "getpoweredbyai/DesignSkills",
+      "sourceType": "github",
+      "skillPath": "agent-skills/web-design/clean-minimal-beige-light-mode/SKILL.md",
+      "computedHash": "37cdfb6c879090835955b96ac8423e69cf5dd308953f32f123903161e29178cf"
+    },
+    "clean-pro-review-gates": {
+      "source": "JPeetz/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/code-quality/clean-pro-review-gates/SKILL.md",
+      "computedHash": "4f1a5cf7bce031976d3e0f0c6ec1590f47c1a41920e262b39e02ffc7456720f2"
+    },
+    "cli-developer": {
+      "source": "Emmraan/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/agent-meta/cli-developer/SKILL.md",
+      "computedHash": "7447248e9c1f4d857390d2eef24d8c92b998d1f21061f5592e9e56a8e5120523"
+    },
+    "click-test-plan": {
+      "source": "Owl-Listener/designer-skills",
+      "sourceType": "github",
+      "skillPath": "prototyping-testing/skills/click-test-plan/SKILL.md",
+      "computedHash": "a639bf8521877872fd861e0ff3750a0671e28fdc953da260cfaa9e5af029b417"
+    },
+    "cloning-websites-to-weaverse": {
+      "source": "Weaverse/shopify-hydrogen-skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloning-websites-to-weaverse/SKILL.md",
+      "computedHash": "763ca506bf6ba1221aada7bd7064f19d07315f6b4f7b80e697ceda0a05fcc18a"
+    },
+    "clothing-detail": {
+      "source": "dlazy-ai/ecommerce-skills",
+      "sourceType": "github",
+      "skillPath": "skills/clothing-detail/SKILL.md",
+      "computedHash": "a77a264f6610ccfd8cfb748a19e68dd70e29fc3450bf6cccbe762a9a7b19f885"
+    },
+    "clothing-extraction": {
+      "source": "dlazy-ai/ecommerce-skills",
+      "sourceType": "github",
+      "skillPath": "skills/clothing-extraction/SKILL.md",
+      "computedHash": "bd06c74ea1d85a3684d3598c5cef0d7efbc5fca048dc5156a42350114c4c1cc7"
+    },
+    "clothing-grass-planting": {
+      "source": "dlazy-ai/ecommerce-skills",
+      "sourceType": "github",
+      "skillPath": "skills/clothing-grass-planting/SKILL.md",
+      "computedHash": "add55bdec3920fb9011b3ca79f0bbe43a0bd2319355d702413792e5e06387530"
+    },
+    "cloud": {
+      "source": "Emmraan/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/devops-cloud/cloud/SKILL.md",
+      "computedHash": "f6559f308e17865672cdeb5019d2859d10f888929d9cf8ba85476e03fab85c93"
+    },
+    "cloud-armor-crs-rule-upgrader": {
+      "source": "google/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloud/cloud-armor-crs-rule-upgrader/SKILL.md",
+      "computedHash": "6baa896b56d196e0bda499e7e18d93764d81e89afaeb3b6d41c87812f22e8430"
+    },
+    "cloud-build-basics": {
+      "source": "google/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloud/cloud-build-basics/SKILL.md",
+      "computedHash": "ccc36a906c1fdd7de642fed0a2518f58cba5e5f8a8e91de2865966df3e2ef25e"
+    },
+    "cloud-databases-onboarding": {
+      "source": "google/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloud/cloud-databases-onboarding/SKILL.md",
+      "computedHash": "41ddc700357ec150b903ad18d0a2d67cedfb94724f425a4146cf2390673c99fa"
+    },
+    "cloud-integrations": {
+      "source": "grafana/skills",
+      "sourceType": "github",
+      "skillPath": "skills/grafana-cloud/cloud-integrations/SKILL.md",
+      "computedHash": "3f899becd8824966661ca42dd7ae11b07e4ecf11f1b362c0f4a6f60ea39d8f49"
+    },
+    "cloud-logging-configuration-basics": {
+      "source": "google/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloud/cloud-logging-configuration-basics/SKILL.md",
+      "computedHash": "e0a9f48708a2bc1643bf4f507ab6bbe6567eade694c60aa8fc916dd4663cf41a"
+    },
+    "cloud-logging-cross-project-configuration": {
+      "source": "google/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloud/cloud-logging-cross-project-configuration/SKILL.md",
+      "computedHash": "2a9b588c7e7fd087929cc84b182545dfb86988ed92512d14ce09539b30a342e8"
+    },
+    "cloud-logging-finops": {
+      "source": "google/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloud/cloud-logging-finops/SKILL.md",
+      "computedHash": "0ec2438decb2248b0c357b59ef46b179c4b01e01f94e91ebd955f86068a1dfef"
+    },
+    "cloud-logging-query-generation": {
+      "source": "google/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloud/cloud-logging-query-generation/SKILL.md",
+      "computedHash": "739019186af77d82a159fa9102af19dcdf1743dc88096280b438fddeb89da330"
+    },
+    "cloud-monitoring-alert-configuration": {
+      "source": "google/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloud/cloud-monitoring-alert-configuration/SKILL.md",
+      "computedHash": "109058c426a0382946c65889a4b0704698af3524d61ccd8d847db1a0e32bd17b"
+    },
+    "cloud-monitoring-chart-generation": {
+      "source": "google/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloud/cloud-monitoring-chart-generation/SKILL.md",
+      "computedHash": "deec6c001d422fa7740e70ed30bf3393030f6515e62f8e8279002f42563cc266"
+    },
+    "cloud-monitoring-list-time-series-request": {
+      "source": "google/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloud/cloud-monitoring-list-time-series-request/SKILL.md",
+      "computedHash": "527043ed71259dd433eb724b86e7669c69a2d5569ffff6dc1ca5e0d1957d8db3"
+    },
+    "cloud-monitoring-metric-selection": {
+      "source": "google/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloud/cloud-monitoring-metric-selection/SKILL.md",
+      "computedHash": "1faa9308b1feed6e01a9c4e9012c07bacf8dddfd7832927a38707f5e888158f5"
+    },
+    "cloud-monitoring-notification-channels-configuration": {
+      "source": "google/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloud/cloud-monitoring-notification-channels-configuration/SKILL.md",
+      "computedHash": "e1464c75dd11d4fec32423f756295bf222129e905cb46987ab7cf607aca00224"
+    },
+    "cloud-monitoring-promql-query": {
+      "source": "google/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloud/cloud-monitoring-promql-query/SKILL.md",
+      "computedHash": "2697472f2fe632f8cedf9202148e9b6340a435ac8602750be2cd9547a12c565f"
+    },
+    "cloud-network-insights": {
+      "source": "google/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloud/cloud-network-insights/SKILL.md",
+      "computedHash": "8d89c2e5d6c99f2fabcaa2cd24f2a0ff7f49969fbba4f673bb07256caf1fe30e"
+    },
+    "cloud-onboarding": {
+      "source": "elastic/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloud/onboarding/SKILL.md",
+      "computedHash": "dc3c5ca7d444bf73ed45bef83bb10c2e16e843336ebda41fc26855fed49c8bd8"
+    },
+    "cloud-operator": {
+      "source": "google/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloud/cloud-operator/SKILL.md",
+      "computedHash": "c8feccc0ace384e0a03c2adac2a16c1cee8837055a0a1fbcff6acb9b13254b25"
+    },
+    "cloud-provisioning": {
+      "source": "elastic/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloud/provisioning/SKILL.md",
+      "computedHash": "266f0cbfbe79a82a658b40a56d3e370bdc786ff275c3db2fa5b3be8a7856c1bd"
+    },
+    "cloud-run-alert-configuration": {
+      "source": "google/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloud/cloud-run-alert-configuration/SKILL.md",
+      "computedHash": "af2edb0ca21a3ea6bf20ecc08ff160284ea51fcee43e1d2e0b631a85f4931864"
+    },
+    "cloud-run-basics": {
+      "source": "google/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloud/cloud-run-basics/SKILL.md",
+      "computedHash": "d8b8fa8d38255d5f377d0c590d3ea0a420437eeb6cbd6f2ffe80050619bf3e01"
+    },
+    "cloud-sql-basics": {
+      "source": "google/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloud/cloud-sql-basics/SKILL.md",
+      "computedHash": "fb746db166cfcd93624544df98bf579fec02ee4e5b8c1b87c3f5336d2e90a94b"
+    },
+    "cloud-trace-querying": {
+      "source": "google/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloud/cloud-trace-querying/SKILL.md",
+      "computedHash": "d7b9dbdee97046c3c1f9a45a3fd9096163e0fb34384e980526430d507075d29f"
+    },
+    "cloudai-threejs": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloudai-threejs/SKILL.md",
+      "computedHash": "70524bd6b02fbd8cc7d89a2398b16d96a47d8a6d4901d1ff3890ba06716c2eab"
+    },
+    "cloudflare": {
+      "source": "cloudflare/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloudflare/SKILL.md",
+      "computedHash": "d97832f74387113dfbde08ac0461fa8403d01d6a0ac8726dec80e303911c6fe4"
+    },
+    "cloudflare-app-bootstrap": {
+      "source": "cloudflare/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloudflare-app-bootstrap/SKILL.md",
+      "computedHash": "8e5edb8162425b25a0d2421b5be65b79855541c5c02b4a7b1d1de586438a4f3c"
+    },
+    "cloudflare-email-service": {
+      "source": "cloudflare/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloudflare-email-service/SKILL.md",
+      "computedHash": "8e32a8351803e2717867bd30404a7503d74f220e4d04c2540fdbb0985e59ab67"
+    },
+    "cloudflare-one": {
+      "source": "cloudflare/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloudflare-one/SKILL.md",
+      "computedHash": "1d523d1efbd82e867c112a6962e1a49c8ebc4c99549133ae56901b1db64cb860"
+    },
+    "cloudflare-one-migrations": {
+      "source": "cloudflare/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloudflare-one-migrations/SKILL.md",
+      "computedHash": "4a5af58da1eb80723871625179c71d6d5716e4b73d7cc6f2dfe6fad4fe185f5e"
+    },
+    "cloudflare-pages": {
+      "source": "bagelhole/DevOps-Security-Agent-Skills",
+      "sourceType": "github",
+      "skillPath": "infrastructure/cloudflare/cloudflare-pages/SKILL.md",
+      "computedHash": "94652c3b9ae6baf874e7fe4197b39678ba46821826a0d7494b0edae22b16f118"
+    },
+    "cloudflare-web-perf": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloudflare-web-perf/SKILL.md",
+      "computedHash": "7b738ac3bc2e26fce28d6e3318108c738e3cbb144cac36f209f98aeead662279"
     }
   }
 }
