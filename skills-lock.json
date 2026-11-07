@@ -4429,6 +4429,12 @@
       "skillPath": "skills/cloud/google-cloud-waf-security/SKILL.md",
       "computedHash": "8d1979a9a9a373b33723c3ff89a8b307f273a8451ed884291e461512fa9b891a"
     },
+    "google-cloud-waf-sustainability": {
+      "source": "google/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloud/google-cloud-waf-sustainability/SKILL.md",
+      "computedHash": "b72c085eec4a54bdf6d6383a930b246cc3c2c4fcfd951c3118b0edd29f3c364c"
+    },
     "google-fonts-skill": {
       "source": "podo/design-agent-skills",
       "sourceType": "github",
@@ -4513,6 +4519,12 @@
       "skillPath": "plugins/fullstack-dev/skills/grilling/SKILL.md",
       "computedHash": "72a1e050ca99d0287dbdf759bb2e3922687efc0ce4e8a25541e781283909a792"
     },
+    "grow-website": {
+      "source": "Emmraan/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/marketing-growth/grow-website/SKILL.md",
+      "computedHash": "f88ec82749de731f60e2a2f35157e0e97ea1718994995ec6db542b570a412a3d"
+    },
     "gsap": {
       "source": "getpoweredbyai/DesignSkills",
       "sourceType": "github",
@@ -4525,6 +4537,12 @@
       "skillPath": "skills/animation-webgl/gsap-core/SKILL.md",
       "computedHash": "4580b3cce4cc5aa3f170c3d580ad792a444961a302364c038558ecf45688ad48"
     },
+    "gsap-frameworks": {
+      "source": "Emmraan/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/animation-webgl/gsap-frameworks/SKILL.md",
+      "computedHash": "7eabfb188cea320800012c4210fa7fed3093824da422f06c0036446ab0aaf91d"
+    },
     "gsap-performance": {
       "source": "Emmraan/agent-skills",
       "sourceType": "github",
@@ -4536,6 +4554,12 @@
       "sourceType": "github",
       "skillPath": "skills/animation-webgl/gsap-plugins/SKILL.md",
       "computedHash": "70c7bd34eba825468287801c44df38deb15001776d245f090dd24262ad1946e5"
+    },
+    "gsap-react": {
+      "source": "Emmraan/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/animation-webgl/gsap-react/SKILL.md",
+      "computedHash": "d200c5229de2968d13afe63522d82a1c90c1abbbd1f919a02d96f890e938039d"
     },
     "gsap-scrolltrigger": {
       "source": "Emmraan/agent-skills",
@@ -4746,6 +4770,12 @@
       "sourceType": "github",
       "skillPath": "skills/cloud/iam-helper-for-policy-management/SKILL.md",
       "computedHash": "2f8d898e10b1762233f09e4939592ee8eff4b18a6e0a1e67ad95fd098d38ce7b"
+    },
+    "iam-helper-for-policy-simulator": {
+      "source": "google/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloud/iam-helper-for-policy-simulator/SKILL.md",
+      "computedHash": "ddff9ccd13aede3bd3511e87b8dccdf801cd6888401c7e06a5afae9a17d623c8"
     },
     "iam-helper-for-privileged-access-management": {
       "source": "google/skills",
@@ -5659,6 +5689,12 @@
       "skillPath": "skills/mobile-app-ui-design/SKILL.md",
       "computedHash": "a5a9183261b36e85a4c18288bb5f7ab21233f10535e977ab63143185b608c143"
     },
+    "mobile-software-engineer": {
+      "source": "loginvijayan/ai-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/mobile/SKILL.md",
+      "computedHash": "824aa494a41e54023641095b04989313a963b520940ebabce8cf994e7fba625c"
+    },
     "mobile-testing": {
       "source": "petrkindlmann/qa-skills",
       "sourceType": "github",
@@ -6114,6 +6150,84 @@
       "sourceType": "github",
       "skillPath": "skills/performance-testing/SKILL.md",
       "computedHash": "5724d20f27d9ccf3eb39bae1b17a037877ef894a7a6d6acd01b239b5e142b654"
+    },
+    "php-pro": {
+      "source": "Emmraan/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/languages/php-pro/SKILL.md",
+      "computedHash": "1cd5289325d0924d6fca4f950711bc9b63d873338cf3b4acd00db62603aebeda"
+    },
+    "phuryn-pm-skills": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/phuryn-pm-skills/SKILL.md",
+      "computedHash": "983ec4b5998bbe7432688a483aee6300d493ba4b588c044d012ba94284fbad2a"
+    },
+    "pipeline-security": {
+      "source": "UnitOneAI/SecuritySkills",
+      "sourceType": "github",
+      "skillPath": "skills/devsecops/pipeline-security/SKILL.md",
+      "computedHash": "bd738557b90003862bc64d39d4954ad725c52d3a1eaf9f8e7a86fe9c59f6bd53"
+    },
+    "pixijs-2d": {
+      "source": "Emmraan/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/animation-webgl/pixijs-2d/SKILL.md",
+      "computedHash": "38b7d687a0cb7981ba456b1b1034f4e41cb7707fbdb8b25b46525cab25e088d4"
+    },
+    "plan-design-review": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/plan-design-review/SKILL.md",
+      "computedHash": "ea41f47277e50cff3eee873f5104b7cc48f019a73f57a1f0a8200dfaca83b9d1"
+    },
+    "planning-and-task-breakdown": {
+      "source": "dtgbao/agent-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/fullstack-dev/skills/planning-and-task-breakdown/SKILL.md",
+      "computedHash": "fb0d413ad8566033e8cb7624f52619c08fe8d4f8f950c5755557adbb6dfea062"
+    },
+    "platform-and-infrastructure-boundary-evaluator": {
+      "source": "anyulled/architecture-guardrails-skills",
+      "sourceType": "github",
+      "skillPath": "skills/platform-and-infrastructure-boundary-evaluator/SKILL.md",
+      "computedHash": "23b4a22094381933e3b8aff17ac19d902e8fee382bc21e1173cd63601632ac8c"
+    },
+    "platform-compliance": {
+      "source": "dlazy-ai/ecommerce-skills",
+      "sourceType": "github",
+      "skillPath": "skills/platform-compliance/SKILL.md",
+      "computedHash": "8c21e7da243963f8773eedc31929e2a2e3e979c9f4447a530943bda2d11852a4"
+    },
+    "platform-conventions": {
+      "source": "Owl-Listener/designer-skills",
+      "sourceType": "github",
+      "skillPath": "ui-design/skills/platform-conventions/SKILL.md",
+      "computedHash": "b2c699f79b3355f40711f560cb9e13cac288e85bf629e3a1e69755834f8349c7"
+    },
+    "platform-design-skills": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/platform-design-skills/SKILL.md",
+      "computedHash": "f1b5a4aa0bbedf1b4d42f18ed1b2d4102fc2016ad7bf53e31cc0ffe5204ba91c"
+    },
+    "playcanvas-engine": {
+      "source": "Emmraan/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/animation-webgl/playcanvas-engine/SKILL.md",
+      "computedHash": "fe076259c2bbbca37dce705ac95e0f90540fbf2c99441907ac23675f89770de2"
+    },
+    "playwright": {
+      "source": "getpoweredbyai/DesignSkills",
+      "sourceType": "github",
+      "skillPath": "agent-skills/codex/playwright/SKILL.md",
+      "computedHash": "69825617ac47ec6b38cf1288123805190e831c9544b18f60e9c106805ea8312a"
+    },
+    "playwright-automation": {
+      "source": "petrkindlmann/qa-skills",
+      "sourceType": "github",
+      "skillPath": "skills/playwright-automation/SKILL.md",
+      "computedHash": "0e17aee27a44f3a91de808f352d44306ccb645e4ba503cc4ca07cb9a77e455fb"
     },
     "playwright-best-practices": {
       "source": "currents-dev/playwright-best-practices-skill",
@@ -7440,6 +7554,1116 @@
       "sourceType": "github",
       "skillPath": "skills/cms/strapi-docs-mcp/SKILL.md",
       "computedHash": "6660be6fccf1d936731fc485da75e3823e944379bd0493435170b71fafa1638f"
+    },
+    "strapi-mcp-capabilities": {
+      "source": "strapi/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cms/strapi-mcp-capabilities/SKILL.md",
+      "computedHash": "b58fa77cbc38e0bbd63b22941a8e2599e8dccb0fbdf5e2979dfe241c75618360"
+    },
+    "strapi-product-builder": {
+      "source": "strapi/skills",
+      "sourceType": "github",
+      "skillPath": "skills/in-progress/strapi-product-builder/SKILL.md",
+      "computedHash": "4a76c3d456610dbef007a6b107e43800bc60c547094bc677d3cdc1606ce740fd"
+    },
+    "strapi-version-upgrade": {
+      "source": "strapi/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cms/strapi-version-upgrade/SKILL.md",
+      "computedHash": "dc9809637c0c6c006ec3a432bcb159c0c36b951934d3c3d041f70ff29e5437d6"
+    },
+    "structural-coupling-and-volatility-analyzer": {
+      "source": "anyulled/architecture-guardrails-skills",
+      "sourceType": "github",
+      "skillPath": "skills/structural-coupling-and-volatility-analyzer/SKILL.md",
+      "computedHash": "3bc951a81c9b59e4ceb7260f2cf299cfb766ed8c35e971851a9b38c58dea7671"
+    },
+    "styleseed": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/styleseed/SKILL.md",
+      "computedHash": "8f5cddde1409ee396ed1b25eaac5d3bfcbef2b197cf1f6e392139f0a6f732938"
+    },
+    "styling-and-design-tokens": {
+      "source": "danielteles/awesome-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/styling-and-design-tokens/SKILL.md",
+      "computedHash": "4992894fdd2fca338d53d36c855aa3339bb5a6effee57478af8e3a1b6146c3f4"
+    },
+    "summarize-interview": {
+      "source": "Owl-Listener/designer-skills",
+      "sourceType": "github",
+      "skillPath": "design-research/skills/summarize-interview/SKILL.md",
+      "computedHash": "14a82ad56aa2a6e5e6caf1acace44f527823117e14fb4260f51265ebd3e56414"
+    },
+    "supabase": {
+      "source": "supabase/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/supabase/SKILL.md",
+      "computedHash": "af1844ade632808fc0c15cf2db87daf3b2431c5262dc8a0c3ea7d70880fadf91"
+    },
+    "supabase-postgres-best-practices": {
+      "source": "dtgbao/agent-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/fullstack-dev/skills/supabase-postgres-best-practices/SKILL.md",
+      "computedHash": "12d090b2da76ea8cf2e2fb98273be8bf1c2c57ededcff0e8ca370b2d1b429269"
+    },
+    "superagent": {
+      "source": "superagent-ai/skills",
+      "sourceType": "github",
+      "skillPath": "skills/superagent/SKILL.md",
+      "computedHash": "e41b6ffb05986ec829583ff87a3d8bee5b3eba9c5c2ab0ef7c7acc26c7d3ee55"
+    },
+    "superdesign-skill": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/superdesign-skill/SKILL.md",
+      "computedHash": "9ae47f4205015e359e0fb4723babf35a5a6673e8f2ba643852afc92f70aaf9eb"
+    },
+    "supply-chain-security": {
+      "source": "superagent-ai/skills",
+      "sourceType": "github",
+      "skillPath": "skills/supply-chain-security/SKILL.md",
+      "computedHash": "2c4668de183095d116b3403ba7ab3ab4e0299e68164aadf90f98d7910da2ba94"
+    },
+    "supply-chain-security-scanner": {
+      "source": "JPeetz/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/security/supply-chain-security-scanner/SKILL.md",
+      "computedHash": "b4835af7741be2f8e0f1812def82201681ecd6be7cfa5db648155510f6085278"
+    },
+    "survey-design": {
+      "source": "Owl-Listener/designer-skills",
+      "sourceType": "github",
+      "skillPath": "design-research/skills/survey-design/SKILL.md",
+      "computedHash": "40937bae15a25b1b8dae59fb4f28ef82041475b6b650a4add49e2c57fbdd05c8"
+    },
+    "svelte": {
+      "source": "Emmraan/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/frontend-ui/svelte/SKILL.md",
+      "computedHash": "a7fc4f0b390580650b68c3d92f0caf6e9c6e6cb3a13c540ae513e50642a12fc3"
+    },
+    "swarm": {
+      "source": "langchain-ai/langchain-skills",
+      "sourceType": "github",
+      "skillPath": "config/skills/swarm/SKILL.md",
+      "computedHash": "1839bb3cb12115e36b4f7873d9bc4b3d97c5cd1140860f4f0032672dc1ec5241"
+    },
+    "swe-wiki": {
+      "source": "dtgbao/agent-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/swe-wiki/skills/swe-wiki/SKILL.md",
+      "computedHash": "ee6dac9b5020b5ec12c6d34a5db75a6b97bf71b1dfbefa0e4107daee04e0a44b"
+    },
+    "swift-expert": {
+      "source": "Emmraan/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/languages/swift-expert/SKILL.md",
+      "computedHash": "669c4b0a0920f66cb5c3cc734eb966c87a0886d845c25d5b61cd25b5f0007132"
+    },
+    "swiftui-claude-skills": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/swiftui-claude-skills/SKILL.md",
+      "computedHash": "db482ca0c56e8a0575a0d76dc100ce03d6fd827e884f8f7fb319238b405f31f1"
+    },
+    "swiftui-debugging": {
+      "source": "getpoweredbyai/DesignSkills",
+      "sourceType": "github",
+      "skillPath": "agent-skills/codex/swiftui-debugging/SKILL.md",
+      "computedHash": "f342e5e94ba5979e16ba80c10b1687a31c175896b428ccba3481e9061c3e1906"
+    },
+    "swiftui-design-skill": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/swiftui-design-skill/SKILL.md",
+      "computedHash": "4df91ae032b97e10dad6cb56b1dd7c9f40ebaa62caf198cbb6f379c7699da019"
+    },
+    "swiftui-patterns": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/swiftui-patterns/SKILL.md",
+      "computedHash": "ac2606fdf5b48900918a786ee5905f12d12bbd7470fa26b1395df0f218b4d59a"
+    },
+    "swiftui-pro": {
+      "source": "getpoweredbyai/DesignSkills",
+      "sourceType": "github",
+      "skillPath": "agent-skills/ui/swiftui-pro/SKILL.md",
+      "computedHash": "12726daaa6f73475890b5341837c720566a85d219f28f5e53b10a0a1193ea09f"
+    },
+    "synthetic-monitoring": {
+      "source": "petrkindlmann/qa-skills",
+      "sourceType": "github",
+      "skillPath": "skills/synthetic-monitoring/SKILL.md",
+      "computedHash": "ab2fb4591cb70453f2d848504cc3c17a359de2dfbc5a735d8d7dbe3493e4aa73"
+    },
+    "synthetic-monitoring-checks": {
+      "source": "grafana/skills",
+      "sourceType": "github",
+      "skillPath": "skills/grafana-cloud/synthetic-monitoring-checks/SKILL.md",
+      "computedHash": "5c65f13295c61496a96a710d6461d36b7b87401008398ed3344328d2fc6538a8"
+    },
+    "tailwind": {
+      "source": "PyModel/react-frontend-skills",
+      "sourceType": "github",
+      "skillPath": "skills/tailwind/SKILL.md",
+      "computedHash": "25f1eb05cffcb0fa0e5aeef05c84bc072d4b6e8573afa91899ad0db3aca81b7f"
+    },
+    "tailwind-css": {
+      "source": "Emmraan/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/frontend-ui/tailwind-css/SKILL.md",
+      "computedHash": "d2651f320f67e68630097f754f3435d93453aba9dff397278503dd491494b12b"
+    },
+    "tailwind-design-system": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "skillPath": "plugins/frontend-mobile-development/skills/tailwind-design-system/SKILL.md",
+      "computedHash": "9e60f9fad6a645b173f076102b76f67d2dc4a1c0867e26c4bff9b9c7dd7f99cd"
+    },
+    "tailwindcss": {
+      "source": "getpoweredbyai/DesignSkills",
+      "sourceType": "github",
+      "skillPath": "agent-skills/web-design/tailwindcss/SKILL.md",
+      "computedHash": "66b067c9f261142fbba2d14083100b28c914c9be1e01d8a27d8b684a9783064b"
+    },
+    "tanstack-query": {
+      "source": "PyModel/react-frontend-skills",
+      "sourceType": "github",
+      "skillPath": "skills/tanstack-query/SKILL.md",
+      "computedHash": "ea4acb90323526ac5fd5017f55f29823579f23d4cd0f650420c6304d1b24e6e1"
+    },
+    "taste-design": {
+      "source": "google-labs-code/stitch-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/stitch-utilities/skills/taste-design/SKILL.md",
+      "computedHash": "3772ea408777070865890e10d693118baa1e1de14ee5bacdf6ab46fdea7359bb"
+    },
+    "taste-design-stitch": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/taste-design-stitch/SKILL.md",
+      "computedHash": "54bb189fe294d4408564de7bb34bc72ceff5d9122bdd76ad9e7120786d260c67"
+    },
+    "taste-skill": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/taste-skill/SKILL.md",
+      "computedHash": "db897a98c2ea778cc82e507855163e51c56ac0be1f2041cfbc001d2ec9f95039"
+    },
+    "tdd": {
+      "source": "PyModel/react-frontend-skills",
+      "sourceType": "github",
+      "skillPath": "skills/tdd/SKILL.md",
+      "computedHash": "83df390b73f7f3c02f8cfcd6dd67b673e9bd7c479df0aaa8920f73fa3b52a94d"
+    },
+    "team-topologies-and-cognitive-load-analyzer": {
+      "source": "anyulled/architecture-guardrails-skills",
+      "sourceType": "github",
+      "skillPath": "skills/team-topologies-and-cognitive-load-analyzer/SKILL.md",
+      "computedHash": "b24bf1a3f69964861d4aa252ee4f563a54efc82efa8c0c04c675dab1d27b4b53"
+    },
+    "team-workflow": {
+      "source": "Owl-Listener/designer-skills",
+      "sourceType": "github",
+      "skillPath": "design-ops/skills/team-workflow/SKILL.md",
+      "computedHash": "59ed456faa2647a11d011edae14ae7a25ce7a196a8efe4ea89d20f14c8ff7e38"
+    },
+    "teardown": {
+      "source": "jakubkrehel/skills",
+      "sourceType": "github",
+      "skillPath": "skills/teardown/SKILL.md",
+      "computedHash": "8aa3a751e1f35dc3cf810010bdcf82646f911cba31492ce456630edd1e24d433"
+    },
+    "tech-green-dark-mode-modern": {
+      "source": "getpoweredbyai/DesignSkills",
+      "sourceType": "github",
+      "skillPath": "agent-skills/web-design/tech-green-dark-mode-modern/SKILL.md",
+      "computedHash": "b26f2071e2f94bc2b6565d0d8a64c5f719ad8f0b44d3e95f167ef62aabd68859"
+    },
+    "tech-lead": {
+      "source": "loginvijayan/ai-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/tech-lead/SKILL.md",
+      "computedHash": "e06ca73a80ab4a10f20c4d88e8014a8055ae316d010a0875a2d385caa26e8d2f"
+    },
+    "technical-documentation": {
+      "source": "JPeetz/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/documentation-content/technical-documentation/SKILL.md",
+      "computedHash": "f5a78f46251810426a7f3f0eae36bfde13026078c8d2a6a07cf67141a288dab6"
+    },
+    "technical-wireframe-info-layout": {
+      "source": "getpoweredbyai/DesignSkills",
+      "sourceType": "github",
+      "skillPath": "agent-skills/web-design/technical-wireframe-info-layout/SKILL.md",
+      "computedHash": "117712a371abc6e15eca255b252508040a13e49962f9ce5bc9c7f71ac67f144c"
+    },
+    "technical-writer": {
+      "source": "loginvijayan/ai-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/technical-writer/SKILL.md",
+      "computedHash": "35db7bcb7486029d82e8d1a204b6438c4b9b5a6296655ab2c8e741d955df5bb6"
+    },
+    "telegram-topics-pipeline": {
+      "source": "JPeetz/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/development/telegram-topics-pipeline/SKILL.md",
+      "computedHash": "7d97d21146623a3a32c3c0281603aa227f662e826028f97e2ffbfb960d8f8a72"
+    },
+    "tempo": {
+      "source": "grafana/skills",
+      "sourceType": "github",
+      "skillPath": "skills/grafana-lgtm/tempo/SKILL.md",
+      "computedHash": "f50c5fe9e723c963b3e77e8594be9dd3135c392913b73a78788ee09cbe8d2cce"
+    },
+    "terraform-aws": {
+      "source": "BagelHole/DevOps-Security-Agent-Skills",
+      "sourceType": "github",
+      "skillPath": "infrastructure/cloud-aws/terraform-aws/SKILL.md",
+      "computedHash": "89d32ce3527dd9ce9eed565ad2998c0c392436c45d8e7831f0e6f47cf8805fe7"
+    },
+    "terraform-engineer": {
+      "source": "Emmraan/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/devops-cloud/terraform-engineer/SKILL.md",
+      "computedHash": "bf18190b6fda8cfd3a657e575ec5f142b882ade36f8277ec5586d08be9a257e5"
+    },
+    "teslers-law": {
+      "source": "Owl-Listener/designer-skills",
+      "sourceType": "github",
+      "skillPath": "interaction-design/skills/teslers-law/SKILL.md",
+      "computedHash": "778fe25b2b98d1bc959dd1661872cb9bdce1771536e05ba450dae4153a830977"
+    },
+    "test-case-management": {
+      "source": "petrkindlmann/qa-skills",
+      "sourceType": "github",
+      "skillPath": "skills/test-case-management/SKILL.md",
+      "computedHash": "41ee4306ff0e79dd8a7f65862ffebb09b515c8eeb78e1f8636fdbc2daa34deb2"
+    },
+    "test-data-management": {
+      "source": "petrkindlmann/qa-skills",
+      "sourceType": "github",
+      "skillPath": "skills/test-data-management/SKILL.md",
+      "computedHash": "c74f6c2b1ec3d905d4f26b55d36835052a31ceddb60419b803aaed23b15e2068"
+    },
+    "test-driven-development": {
+      "source": "obra/superpowers",
+      "sourceType": "github",
+      "skillPath": "skills/test-driven-development/SKILL.md",
+      "computedHash": "3cfe4ebb6fa7288f668d87880d279c8e48f7a92b63415e296857060f5ce22e05"
+    },
+    "test-environments": {
+      "source": "petrkindlmann/qa-skills",
+      "sourceType": "github",
+      "skillPath": "skills/test-environments/SKILL.md",
+      "computedHash": "983979c5e8be18f2fd0e86a62d18ec2dfc6ae73232f36304647dc9dee74c9c63"
+    },
+    "test-master": {
+      "source": "Emmraan/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/testing-quality/test-master/SKILL.md",
+      "computedHash": "4ebd69e573e2a5596703340810e734505f102a76062cf836303758addea17cbd"
+    },
+    "test-migration": {
+      "source": "petrkindlmann/qa-skills",
+      "sourceType": "github",
+      "skillPath": "skills/test-migration/SKILL.md",
+      "computedHash": "97c092cf57591f68a1c62256a2ae75362e872a3d0ccebee381d735f15364962c"
+    },
+    "test-planning": {
+      "source": "petrkindlmann/qa-skills",
+      "sourceType": "github",
+      "skillPath": "skills/test-planning/SKILL.md",
+      "computedHash": "168bce57da4cb8e39e91429d9b92b522de86590ffdac39bfd7c521be3ad42e5f"
+    },
+    "test-quality": {
+      "source": "danielteles/awesome-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/test-quality/SKILL.md",
+      "computedHash": "ba47768e339994c46bc52691760c64972e923ef3a9ae9131cd942d411f36edb1"
+    },
+    "test-reliability": {
+      "source": "petrkindlmann/qa-skills",
+      "sourceType": "github",
+      "skillPath": "skills/test-reliability/SKILL.md",
+      "computedHash": "a539976eb5ac6ba07fc19c51d7ddc65266a92175deecf69362e788255a0c8112"
+    },
+    "test-scenario": {
+      "source": "Owl-Listener/designer-skills",
+      "sourceType": "github",
+      "skillPath": "prototyping-testing/skills/test-scenario/SKILL.md",
+      "computedHash": "7d57cf10a55ecd244d9f3470617d06dd447c8255600ab492c5317f94807c3ed9"
+    },
+    "test-strategy": {
+      "source": "petrkindlmann/qa-skills",
+      "sourceType": "github",
+      "skillPath": "skills/test-strategy/SKILL.md",
+      "computedHash": "33140dd1d7ae95a120a6e652d34ad772c72d83e7ba6b45ae77da564919860d64"
+    },
+    "test-suite-curation": {
+      "source": "petrkindlmann/qa-skills",
+      "sourceType": "github",
+      "skillPath": "skills/test-suite-curation/SKILL.md",
+      "computedHash": "8cc0be46c04b6de4097cde2198b8be8adcd40d3084204cabeb28a18e5d5c2cec"
+    },
+    "testability-and-automation-architecture-evaluator": {
+      "source": "anyulled/architecture-guardrails-skills",
+      "sourceType": "github",
+      "skillPath": "skills/testability-and-automation-architecture-evaluator/SKILL.md",
+      "computedHash": "5fedcc95ad2ac3e7b01ab46168752d8b9ff7223971e5a1f38c7f6effe3a7a38c"
+    },
+    "testing": {
+      "source": "grafana/skills",
+      "sourceType": "github",
+      "skillPath": "skills/grafana-cloud/testing/SKILL.md",
+      "computedHash": "a79f64578b69c030f9946d39bb346adb8b192eb4d4c82a71b116c974796186fb"
+    },
+    "testing-in-production": {
+      "source": "petrkindlmann/qa-skills",
+      "sourceType": "github",
+      "skillPath": "skills/testing-in-production/SKILL.md",
+      "computedHash": "3e0122703c4c1e99958040d31a5d5fabff92b5df2079a4cc44f0b62a6175e4c3"
+    },
+    "textual-tui-skill": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/textual-tui-skill/SKILL.md",
+      "computedHash": "51a764cf16be393c8694fe5c1c5c2043446d09e82d454e08ab421a28cb679124"
+    },
+    "the-fool": {
+      "source": "Emmraan/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/agent-meta/the-fool/SKILL.md",
+      "computedHash": "b8de67ab60acd4fff6537efbd157b41ff0e277d1486e90a44607bf70d02e5251"
+    },
+    "theme-update": {
+      "source": "Weaverse/shopify-hydrogen-skills",
+      "sourceType": "github",
+      "skillPath": "skills/theme-update/SKILL.md",
+      "computedHash": "833f5df10e8dd5910bd9dfe8680d9ebbc07a61359347782d6429fe39acb57b9b"
+    },
+    "theming-system": {
+      "source": "Owl-Listener/designer-skills",
+      "sourceType": "github",
+      "skillPath": "design-systems/skills/theming-system/SKILL.md",
+      "computedHash": "5d846daa520eeca53f1422ecb9a3bc8adab9bf189fa2926296b0ccccd8f198f7"
+    },
+    "threat-modeling": {
+      "source": "UnitOneAI/SecuritySkills",
+      "sourceType": "github",
+      "skillPath": "skills/appsec/threat-modeling/SKILL.md",
+      "computedHash": "de023ae37c6f953c1313bb50cf72399184aa0d7d298a2d485a62e1c79a8a02eb"
+    },
+    "threejs": {
+      "source": "getpoweredbyai/DesignSkills",
+      "sourceType": "github",
+      "skillPath": "agent-skills/web-design/threejs/SKILL.md",
+      "computedHash": "6950f9c40b2acaf2243c4f4128120b06e43f7c410df842905ef4bc59ff282ee7"
+    },
+    "threejs-animation": {
+      "source": "cloudai-x/threejs-skills",
+      "sourceType": "github",
+      "skillPath": "skills/threejs-animation/SKILL.md",
+      "computedHash": "cb27ed7b9ef4eb1f1f45a616b776f1f3390edd9ea17f9ddbde26b4f621f2d2ae"
+    },
+    "threejs-asset-pipeline": {
+      "source": "cloudai-x/threejs-skills",
+      "sourceType": "github",
+      "skillPath": "skills/threejs-asset-pipeline/SKILL.md",
+      "computedHash": "81997c5dcf3dea3116629de44cc6948207f708a8ca242098f8102e43a8516156"
+    },
+    "threejs-claude-skill-package": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/threejs-claude-skill-package/SKILL.md",
+      "computedHash": "3954d55b55377c3b9bcb981c3bd9f2579469c0ae8f584205a32ce4692aeab6a9"
+    },
+    "threejs-ecs-ts": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/threejs-ecs-ts/SKILL.md",
+      "computedHash": "c9abddca5a4393835a3e34d588d78d77865ef97a6e423d14e40348cf6d874303"
+    },
+    "threejs-fundamentals": {
+      "source": "cloudai-x/threejs-skills",
+      "sourceType": "github",
+      "skillPath": "skills/threejs-fundamentals/SKILL.md",
+      "computedHash": "01b18e381a820a257d2a2ecdaedac3ec36e8f2cac87810e8cc1b42800e3d2bb3"
+    },
+    "threejs-geometry": {
+      "source": "cloudai-x/threejs-skills",
+      "sourceType": "github",
+      "skillPath": "skills/threejs-geometry/SKILL.md",
+      "computedHash": "67e6fa98e6c951e164f2e17df73cd5cfc53fc655693b4cef006d67a1f5edffe6"
+    },
+    "threejs-interaction": {
+      "source": "cloudai-x/threejs-skills",
+      "sourceType": "github",
+      "skillPath": "skills/threejs-interaction/SKILL.md",
+      "computedHash": "da4cdf4bf4789eced05ec0692ba83436c4391232c7241b3842b9477081aa39b1"
+    },
+    "threejs-lighting": {
+      "source": "cloudai-x/threejs-skills",
+      "sourceType": "github",
+      "skillPath": "skills/threejs-lighting/SKILL.md",
+      "computedHash": "566dd1ef94b4881141153f6a7e9ce1a46c643819f2975b520f0a4ad4d8cdf0ba"
+    },
+    "threejs-loaders": {
+      "source": "cloudai-x/threejs-skills",
+      "sourceType": "github",
+      "skillPath": "skills/threejs-loaders/SKILL.md",
+      "computedHash": "8d1e2656be0eda0e4e39ea42dc240e076c5ad6b91fd1b32973d3a4087a7133ce"
+    },
+    "threejs-materials": {
+      "source": "cloudai-x/threejs-skills",
+      "sourceType": "github",
+      "skillPath": "skills/threejs-materials/SKILL.md",
+      "computedHash": "7ec26e865fc849bb5e454b80b19296ba34d8e915539fb100971570da31270c96"
+    },
+    "threejs-performance": {
+      "source": "cloudai-x/threejs-skills",
+      "sourceType": "github",
+      "skillPath": "skills/threejs-performance/SKILL.md",
+      "computedHash": "4567a9aad8f1da1510d0aad74c250498f580fe8b477dba4a6c8617adc8a05e6f"
+    },
+    "threejs-postprocessing": {
+      "source": "cloudai-x/threejs-skills",
+      "sourceType": "github",
+      "skillPath": "skills/threejs-postprocessing/SKILL.md",
+      "computedHash": "80f26b45e551a792e80ebcd03446d74ecabb1ba9519d3a34f4e8d5459bfc4c6b"
+    },
+    "threejs-react-three-fiber": {
+      "source": "cloudai-x/threejs-skills",
+      "sourceType": "github",
+      "skillPath": "skills/threejs-react-three-fiber/SKILL.md",
+      "computedHash": "1eb7de8f600b96e2bbefe0d2a9fdce45b60e5811b165e384d853ad9b6a0c5f70"
+    },
+    "threejs-shaders": {
+      "source": "cloudai-x/threejs-skills",
+      "sourceType": "github",
+      "skillPath": "skills/threejs-shaders/SKILL.md",
+      "computedHash": "9f25737c01e28e91192e57aa294c9535e313566225b9eaad9aacee9b4211666b"
+    },
+    "threejs-textures": {
+      "source": "cloudai-x/threejs-skills",
+      "sourceType": "github",
+      "skillPath": "skills/threejs-textures/SKILL.md",
+      "computedHash": "8518acd24e48d91e28b4d7855fccf81157b1472831ff1fd376771cff91c83b84"
+    },
+    "threejs-webgl": {
+      "source": "Emmraan/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/animation-webgl/threejs-webgl/SKILL.md",
+      "computedHash": "343d89bf61c11718d1000f2c8a3557d0228fb6580c84004101f302ba43d7873a"
+    },
+    "to-3d": {
+      "source": "dlazy-ai/ecommerce-skills",
+      "sourceType": "github",
+      "skillPath": "skills/to-3d/SKILL.md",
+      "computedHash": "584c2d1c9db7733f7ff53b618b67f3d35f244cd1858554199263648eda31af80"
+    },
+    "top-design": {
+      "source": "Emmraan/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/design-ux/top-design/SKILL.md",
+      "computedHash": "915c4743240d9e4d8512c3500feb5235c04669feae81a994912ee0143c80a987"
+    },
+    "tui-design-skill": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/tui-design-skill/SKILL.md",
+      "computedHash": "aa60730624b33985bb6ef97608f8107f8930e631f4a682239f467feb6148f42f"
+    },
+    "turnstile-spin": {
+      "source": "cloudflare/skills",
+      "sourceType": "github",
+      "skillPath": "skills/turnstile-spin/SKILL.md",
+      "computedHash": "32e6473aac9e858f4b4143c1c3da7af376c9f14a170a7a7f14c7b2a79455d780"
+    },
+    "typescript": {
+      "source": "Emmraan/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/frontend-ui/typescript/SKILL.md",
+      "computedHash": "917f5675a563d35d9b3887b528f17905c414f76c70dad91411ef1456fb03c1c3"
+    },
+    "typography-scale": {
+      "source": "Owl-Listener/designer-skills",
+      "sourceType": "github",
+      "skillPath": "ui-design/skills/typography-scale/SKILL.md",
+      "computedHash": "16d7c5af2f5aea5c291c0f48120b2f88b0979e23a2a568cb8bab8b47c381d2ae"
+    },
+    "ugc-testimonial": {
+      "source": "dlazy-ai/ecommerce-skills",
+      "sourceType": "github",
+      "skillPath": "skills/ugc-testimonial/SKILL.md",
+      "computedHash": "eb1881b28bc66ee0368e42b2a99cdcb0aaed2f4f0729d0f270f395d953f85f6f"
+    },
+    "ui-animation": {
+      "source": "mblode/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/ui-animation/SKILL.md",
+      "computedHash": "d24cffdc8442d5ac88604af27273e3c322528e8365eb3291d696dc4982cba249"
+    },
+    "ui-craft": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/ui-craft/SKILL.md",
+      "computedHash": "27a4d5dad41c3c0e0876f2ed8d19681afac8cc49810031002d6478cbc11bad94"
+    },
+    "ui-design": {
+      "source": "PyModel/react-frontend-skills",
+      "sourceType": "github",
+      "skillPath": "skills/ui-design/SKILL.md",
+      "computedHash": "ae25c4e9b64d3b3d982f574c1f603a4cc77502207cc71115290b551e4ff073ac"
+    },
+    "ui-styling": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/ui-styling/SKILL.md",
+      "computedHash": "8082ea01d0818820f177d0e09e69d1fe124e7ffd8b40275e5ec89f20d746ba67"
+    },
+    "ui-ux": {
+      "source": "Emmraan/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/design-ux/ui-ux/SKILL.md",
+      "computedHash": "d03780c55bacb943389b748f66c3d4c95e4f8c463d8386c8309e8dc6ea72fc5e"
+    },
+    "ui-ux-designer": {
+      "source": "loginvijayan/ai-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/ui-ux-designer/SKILL.md",
+      "computedHash": "7fdbb1220b08996dc2e287e29994922f522afc8e202d7980be03b0b22eded4cb"
+    },
+    "ui-ux-pro-max": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/ui-ux-pro-max/SKILL.md",
+      "computedHash": "0ad6c85fadec145eb36ec8c1daabfd5c6c398c00828fa5bc048dd936a0e7975a"
+    },
+    "unicorn-studio": {
+      "source": "getpoweredbyai/DesignSkills",
+      "sourceType": "github",
+      "skillPath": "agent-skills/web-design/unicorn-studio/SKILL.md",
+      "computedHash": "e6f94ef1bba0044ca3f7ce6a32eb6f0047233c98028f3bcbe535a0dade6184af"
+    },
+    "unit-testing": {
+      "source": "petrkindlmann/qa-skills",
+      "sourceType": "github",
+      "skillPath": "skills/unit-testing/SKILL.md",
+      "computedHash": "83e29284ab902c661b16d0c87f7fa24346d422f45b724ee0c277f7d2f4164e39"
+    },
+    "unsplash-asset-images": {
+      "source": "getpoweredbyai/DesignSkills",
+      "sourceType": "github",
+      "skillPath": "agent-skills/media/unsplash-asset-images/SKILL.md",
+      "computedHash": "3295e7b7ef9c0bdae17b0015429d010358e1524ef7437e9a0cd4e93815666c6e"
+    },
+    "usability-test-plan": {
+      "source": "Owl-Listener/designer-skills",
+      "sourceType": "github",
+      "skillPath": "design-research/skills/usability-test-plan/SKILL.md",
+      "computedHash": "218bf4431cb06f661e854518277eb4dbcf01253abacd70c07dcd6c579e1eb3fb"
+    },
+    "user-flow-diagram": {
+      "source": "Owl-Listener/designer-skills",
+      "sourceType": "github",
+      "skillPath": "prototyping-testing/skills/user-flow-diagram/SKILL.md",
+      "computedHash": "e167f8977305a5c1b4381f7222508b6c2f827dc93f9dd20e2a69df969b3b7dbe"
+    },
+    "user-persona": {
+      "source": "Owl-Listener/designer-skills",
+      "sourceType": "github",
+      "skillPath": "design-research/skills/user-persona/SKILL.md",
+      "computedHash": "db54e5b34c9e5d3b0c72ff32c7ac1e32726f6407c4e25fdf32479c28d667e000"
+    },
+    "user-research-cookiy": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/user-research-cookiy/SKILL.md",
+      "computedHash": "b0baa8b37f199b831717ba9b900bc030020b748074400999d3c84c8278b88b2a"
+    },
+    "using-agent-skills": {
+      "source": "addyosmani/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/using-agent-skills/SKILL.md",
+      "computedHash": "4221dc84c943696829025a42c7961b257afdb8f1ba20af42463434a0d9c03812"
+    },
+    "using-medusa-cloud": {
+      "source": "medusajs/medusa-agent-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/medusa-cloud/skills/using-medusa-cloud/SKILL.md",
+      "computedHash": "9087216697a6312f31876f74c5aac8888abf4049d25d96ea89b48c7ff9c58f1c"
+    },
+    "ux-designer-skill": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/ux-designer-skill/SKILL.md",
+      "computedHash": "ed602d3e05b1d7669c56376e89c50ac78b9a244fa5a47433a33a6594e6864b3c"
+    },
+    "ux-heuristics": {
+      "source": "Emmraan/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/design-ux/ux-heuristics/SKILL.md",
+      "computedHash": "25e39fa1e5d800ed9ac6a85bb65181eecb3248e5b8d2f77ba351d2621285fa89"
+    },
+    "ux-ui-mastery": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/ux-ui-mastery/SKILL.md",
+      "computedHash": "76485861194cd16d7323a3b1970d96a72d16a8b50573ad28110d2823159ce279"
+    },
+    "ux-writing": {
+      "source": "Owl-Listener/designer-skills",
+      "sourceType": "github",
+      "skillPath": "designer-toolkit/skills/ux-writing/SKILL.md",
+      "computedHash": "8ddf53d03a786f6f0a219d013e0d3d5d7afdd770520729875614d91d7d21eac1"
+    },
+    "ux-writing-skill": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/ux-writing-skill/SKILL.md",
+      "computedHash": "32d5f75845c5f3b6d96ad4bb2278bdb1f059a903db05e8d224e63f529bcbeb79"
+    },
+    "vantajs": {
+      "source": "getpoweredbyai/DesignSkills",
+      "sourceType": "github",
+      "skillPath": "agent-skills/web-design/vantajs/SKILL.md",
+      "computedHash": "54532731286fc01e65544ff4b934b0f80ecd43f38a42eb6d4fc8d14e7b01fba5"
+    },
+    "variant": {
+      "source": "jakubkrehel/skills",
+      "sourceType": "github",
+      "skillPath": "skills/variant/SKILL.md",
+      "computedHash": "e924db65a7f161327c469e16ace0298186363b07c0bd7a769c827115baff5c12"
+    },
+    "vercel-composition-patterns": {
+      "source": "PyModel/react-frontend-skills",
+      "sourceType": "github",
+      "skillPath": "skills/vercel-composition-patterns/SKILL.md",
+      "computedHash": "e8b3d7e23e462f05b7678d0b1d491006999a5c89234d9a6d50ee1014e8c6fd9d"
+    },
+    "vercel-deployments": {
+      "source": "bagelhole/DevOps-Security-Agent-Skills",
+      "sourceType": "github",
+      "skillPath": "infrastructure/platforms/vercel-deployments/SKILL.md",
+      "computedHash": "f56db8fea86e465326f27823a32ff9a3cb9d151c184815710603e2cd1bc6a4f9"
+    },
+    "vercel-react-best-practices": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/react-best-practices/SKILL.md",
+      "computedHash": "6b526d013e28073246a36f99b529bc43745d30832ecfa8217b359c34f260ca6b"
+    },
+    "vercel-skills": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/vercel-skills/SKILL.md",
+      "computedHash": "9f30156c5403d7ca6f555c98e53960ac06843ec9f237140eea3cc90b89978c79"
+    },
+    "version-control": {
+      "source": "Emmraan/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/devops-cloud/version-control/SKILL.md",
+      "computedHash": "ee35e8d3f7073d2e4089522dda685e315e0a00756ae7c705b6dd6134a80e53ac"
+    },
+    "version-control-strategy": {
+      "source": "Owl-Listener/designer-skills",
+      "sourceType": "github",
+      "skillPath": "design-ops/skills/version-control-strategy/SKILL.md",
+      "computedHash": "c45b534e96b32fa41d56f04e87a9050fa10990f8ce7146478fcda38ec52f3f82"
+    },
+    "video-to-superprompt": {
+      "source": "getpoweredbyai/DesignSkills",
+      "sourceType": "github",
+      "skillPath": "agent-skills/codex/video-to-superprompt/SKILL.md",
+      "computedHash": "2b10979dbee9fb3dc75bb66d8d4a86bb571bd1709da84a21a76489cd6a5b5c92"
+    },
+    "visual-hierarchy": {
+      "source": "Owl-Listener/designer-skills",
+      "sourceType": "github",
+      "skillPath": "ui-design/skills/visual-hierarchy/SKILL.md",
+      "computedHash": "02f1bd148db68eb4455332a3d00e77fc8111c151eee3b22df5bffc7815fc1fb5"
+    },
+    "visual-testing": {
+      "source": "petrkindlmann/qa-skills",
+      "sourceType": "github",
+      "skillPath": "skills/visual-testing/SKILL.md",
+      "computedHash": "09b3b8410b6df763a1f79b199570596148cf59c1c303693fbbc7a61636383f46"
+    },
+    "vite": {
+      "source": "Emmraan/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/frontend-ui/vite/SKILL.md",
+      "computedHash": "ba54a63a7ae9e3f074aac5e491db4a00b3e40707601d3bfa41f1bac1b72ae3ab"
+    },
+    "vitest": {
+      "source": "dtgbao/agent-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/fullstack-dev/skills/vitest/SKILL.md",
+      "computedHash": "f5f781a85ff8b34f3f8cb35c613e7de478c0b50f2b00b5687f093d128e21b1e2"
+    },
+    "vitest-best-practices": {
+      "source": "dtgbao/agent-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/fullstack-dev/skills/vitest-best-practices/SKILL.md",
+      "computedHash": "f8c6285a54823844046087782b83fa8c78111a13ac355f106a90dbff748d4fba"
+    },
+    "von-restorff-effect": {
+      "source": "Owl-Listener/designer-skills",
+      "sourceType": "github",
+      "skillPath": "ui-design/skills/von-restorff-effect/SKILL.md",
+      "computedHash": "093eddd3937a6d4650875f26398ebd67a31626bbd52365b2065cb4657207ad9d"
+    },
+    "vue": {
+      "source": "Emmraan/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/frontend-ui/vue/SKILL.md",
+      "computedHash": "0559313509d17ba3fe2874c0889b1ebe3e039b68b53ab574d90e7a7766178412"
+    },
+    "vueuse": {
+      "source": "Emmraan/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/frontend-ui/vueuse/SKILL.md",
+      "computedHash": "93dfc2b6b89e26fe645c1ae873712931b892d25a5eb476d2bd5ae983bc328ec9"
+    },
+    "vulnerability-triage": {
+      "source": "superagent-ai/skills",
+      "sourceType": "github",
+      "skillPath": "skills/vulnerability-triage/SKILL.md",
+      "computedHash": "e71c9d0d7165ce40d294a2bb316a127a9b276717be7a8a4df1c3e961d3ba2967"
+    },
+    "wcag-ai-skill": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/wcag-ai-skill/SKILL.md",
+      "computedHash": "88e563e75fa348401514a785001a5ce7023f834ccfaa9713e9402634661b8aa2"
+    },
+    "wcag-audit-patterns": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/wcag-audit-patterns/SKILL.md",
+      "computedHash": "492046e551bfeb06b44543435d0cb8a5e378e0b520f0d5fc7bc64f5d8771c266"
+    },
+    "wear-everything": {
+      "source": "dlazy-ai/ecommerce-skills",
+      "sourceType": "github",
+      "skillPath": "skills/wear-everything/SKILL.md",
+      "computedHash": "1dc04c7e4301f65324d7860f15a4883cc81ea53c6111ff18cf7507bb55a6fdde"
+    },
+    "weaverse-content-api": {
+      "source": "Weaverse/shopify-hydrogen-skills",
+      "sourceType": "github",
+      "skillPath": "skills/weaverse-content-api/SKILL.md",
+      "computedHash": "f66e9c23243b4112252a5fb6f13ef0416f133a79ed58e4ed6a85214f143775b1"
+    },
+    "weaverse-hydrogen": {
+      "source": "Weaverse/shopify-hydrogen-skills",
+      "sourceType": "github",
+      "skillPath": "skills/weaverse-hydrogen/SKILL.md",
+      "computedHash": "06b030d275ff688d21937d514d0c80c381cd83ce1fb0c1d768bc27c490722b87"
+    },
+    "weaverse-integration": {
+      "source": "Weaverse/shopify-hydrogen-skills",
+      "sourceType": "github",
+      "skillPath": "skills/weaverse-integration/SKILL.md",
+      "computedHash": "56d305cf0b4e55d0e9a9d88b31b4b9100c5be70c16f81d1d7678f84b2c59424d"
+    },
+    "web-design-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/web-design-guidelines/SKILL.md",
+      "computedHash": "d8e7d3afe37dcc8a97b99ffb5afdb4d0919ae0092ea8b68f44eb201f035e33ac"
+    },
+    "web-perf": {
+      "source": "cloudflare/skills",
+      "sourceType": "github",
+      "skillPath": "skills/web-perf/SKILL.md",
+      "computedHash": "6a64193959c0dff8a6fab17025aac2c56405aef8f2638196a5339448873cb2fa"
+    },
+    "web-performance": {
+      "source": "danielteles/awesome-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/web-performance/SKILL.md",
+      "computedHash": "ed7d3694d3ef88eab3d104801e9711561db45544bd32fa0bdfa6bfce64014a0a"
+    },
+    "web-quality-audit": {
+      "source": "addyosmani/web-quality-skills",
+      "sourceType": "github",
+      "skillPath": "skills/web-quality-audit/SKILL.md",
+      "computedHash": "10c0b018ce77d2c6dd17aecf1ab58a64abb2beee945354d83c4ba8883527120a"
+    },
+    "web-search": {
+      "source": "dtgbao/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/web-search/SKILL.md",
+      "computedHash": "7bd5e6ae75c9c86f472687c71f832718be5a64ad72225a0ec1e46b9653e6a4c5"
+    },
+    "web-typography": {
+      "source": "Emmraan/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/design-ux/web-typography/SKILL.md",
+      "computedHash": "f5843942cd3c22ad0d68046d08120fb2be56ce74423053f0527cd21a1467c17d"
+    },
+    "webapp-testing": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/webapp-testing/SKILL.md",
+      "computedHash": "3f14af7f5690695209c22fbf8c8d133769a86d64892602c09bb13f135e14e857"
+    },
+    "webflow": {
+      "source": "Emmraan/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/frontend-ui/webflow/SKILL.md",
+      "computedHash": "a96a999c0b409486f98301b8e019d65c28d4334e555a0b35772a0d499eb60b31"
+    },
+    "webgl-3d-object": {
+      "source": "getpoweredbyai/DesignSkills",
+      "sourceType": "github",
+      "skillPath": "agent-skills/web-design/webgl-3d-object/SKILL.md",
+      "computedHash": "8a9d12dda5e505a85b72b1c52376e79b3566c20db54a815af8252d024c561520"
+    },
+    "webgl-landing-steering": {
+      "source": "getpoweredbyai/DesignSkills",
+      "sourceType": "github",
+      "skillPath": "agent-skills/web-design/webgl-landing-steering/SKILL.md",
+      "computedHash": "b6639df1c93486c2b8dae506e7babf67d7f3a48cba920fe296d680a68d945cdc"
+    },
+    "webgl-laser": {
+      "source": "getpoweredbyai/DesignSkills",
+      "sourceType": "github",
+      "skillPath": "agent-skills/web-design/webgl-laser/SKILL.md",
+      "computedHash": "c719a35fe047b0447cabc19e4ddb25dd97deee5129356ed0116c826abb2bd34a"
+    },
+    "webgpu-claude-skill": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/webgpu-claude-skill/SKILL.md",
+      "computedHash": "880fcef6b7bd2c6f7c95d4e9b8b21219236f467e1bd2fc27907a5b00066fd13f"
+    },
+    "websocket-engineer": {
+      "source": "Emmraan/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/backend-apis/websocket-engineer/SKILL.md",
+      "computedHash": "0be23b3291c1ad1b58ebf5e9cbd56f6cba4a0a7799ec466660c6ad97fd657b1c"
+    },
+    "wiggle-claude-skill": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/wiggle-claude-skill/SKILL.md",
+      "computedHash": "709ebb375e64984ee95f087667567195032167648d9cdbd5c21f63b86d0a845e"
+    },
+    "wireframe-skill": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/wireframe-skill/SKILL.md",
+      "computedHash": "e6ba01057e564e62ae48728012656d336f0cc3dd17cb37df8b946f998b49fbfe"
+    },
+    "wireframe-spec": {
+      "source": "Owl-Listener/designer-skills",
+      "sourceType": "github",
+      "skillPath": "prototyping-testing/skills/wireframe-spec/SKILL.md",
+      "computedHash": "fc13fbe40d493c446e2e455539a2e915cea573017a1b276afa8dcd45a6903773"
+    },
+    "wireframer": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/wireframer/SKILL.md",
+      "computedHash": "253483e51f9f451dce3a911d99ef6a084589b98f1bcca0475b80aa85461028dc"
+    },
+    "wondelai-skills": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/wondelai-skills/SKILL.md",
+      "computedHash": "5e4e5e5efebb80d5de386246a23a1a3a8b11cc6c132ebacdfb05a867f9ece911"
+    },
+    "wordpress-pro": {
+      "source": "Emmraan/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/marketing-growth/wordpress-pro/SKILL.md",
+      "computedHash": "f237f4c4fdecc4eb65f88ab192fc9398dbf89bad9a74d058304d73504a88f86a"
+    },
+    "wordpress-router": {
+      "source": "WordPress/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/wordpress-router/SKILL.md",
+      "computedHash": "0130f7e4a8c513f5f6a8425f84850c87c14421dc60b97cc33628f2a2105e7563"
+    },
+    "work-with-design-systems": {
+      "source": "podo/design-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/work-with-design-systems/SKILL.md",
+      "computedHash": "e261612df8210bed08c7128b52b8479155d81c4f8d6e6db9c89d7d338c5c6302"
+    },
+    "workers-best-practices": {
+      "source": "cloudflare/skills",
+      "sourceType": "github",
+      "skillPath": "skills/workers-best-practices/SKILL.md",
+      "computedHash": "08247bd6a3f0d22c0e6d0f48babdd41101eab236ec559bf08bffe7d10763f44d"
+    },
+    "workers-development": {
+      "source": "cloudflare/skills",
+      "sourceType": "github",
+      "skillPath": "skills/workers-development/SKILL.md",
+      "computedHash": "c61a97b346d11a424ee581ae9873338714edaab7c8ebe12366c4dcd340f73ff2"
+    },
+    "workers-profiling": {
+      "source": "cloudflare/skills",
+      "sourceType": "github",
+      "skillPath": "skills/workers-profiling/SKILL.md",
+      "computedHash": "7dc3b39724709fd0d11469c434c5fb107022506800f5b2b315a837d66d053536"
+    },
+    "workload-manager-basics": {
+      "source": "google/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloud/workload-manager-basics/SKILL.md",
+      "computedHash": "3298b9025303e5961ec07f8e1fd07395fef9322300f5031334697f7b3443b11b"
+    },
+    "wp-abilities-api": {
+      "source": "WordPress/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/wp-abilities-api/SKILL.md",
+      "computedHash": "e67c9c6ce89e60e7dfffd1119c53a10a3bd68f770989d762c699afda298399c9"
+    },
+    "wp-abilities-audit": {
+      "source": "WordPress/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/wp-abilities-audit/SKILL.md",
+      "computedHash": "29f5d9f72a2539da3309fa9e855ccf68ef5d7b1995d2c68dacabd8370860749c"
+    },
+    "wp-abilities-verify": {
+      "source": "WordPress/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/wp-abilities-verify/SKILL.md",
+      "computedHash": "1d693ad9ebea1294bb014cdec04c4e3c8785a1f260a6a7862697a6fafa8166fc"
+    },
+    "wp-ability-development": {
+      "source": "WordPress/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/wp-ability-development/SKILL.md",
+      "computedHash": "f3029578b4728551bffdc02451575f9b86aabf191178a93eb66d56f46a3bf211"
+    },
+    "wp-block-development": {
+      "source": "WordPress/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/wp-block-development/SKILL.md",
+      "computedHash": "98f9a44abf8e07b7e5eeefa0d3b0aa94ee166d215c4687b5b782baa666f96c29"
+    },
+    "wp-block-themes": {
+      "source": "WordPress/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/wp-block-themes/SKILL.md",
+      "computedHash": "17818301abdb463875df61a0c764c7d4828012ab5da679de75cc11f49cbfb011"
+    },
+    "wp-env": {
+      "source": "WordPress/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/wp-env/SKILL.md",
+      "computedHash": "e07e1c844b706b0009d3ec5e76d8c07947d85715498e5a2eb269e023321a7230"
+    },
+    "wp-interactivity-api": {
+      "source": "WordPress/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/wp-interactivity-api/SKILL.md",
+      "computedHash": "4bbfd565cdd0a3628353e8eaa3f086bf46726e3900ff8c21678f35fd08bfe536"
+    },
+    "wp-patterns": {
+      "source": "WordPress/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/wp-patterns/SKILL.md",
+      "computedHash": "b252227c95d0691c972011afbc9148824d61e7c9e06a0bff20e6bd825323877d"
+    },
+    "wp-performance": {
+      "source": "WordPress/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/wp-performance/SKILL.md",
+      "computedHash": "eb308c2cc3d12ecbc1c1924fcd7015a477c1366797a70ee7e38e01c8f0db5e66"
+    },
+    "wp-phpstan": {
+      "source": "WordPress/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/wp-phpstan/SKILL.md",
+      "computedHash": "757416abda7fa73ece0c7a3428af34dc80b87b7c81a779a331440fde97ffb257"
+    },
+    "wp-playground": {
+      "source": "WordPress/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/wp-playground/SKILL.md",
+      "computedHash": "3a309677104c6258dbe9630bb35683531d5695dfaabaff4f0515c2dcadc3574c"
+    },
+    "wp-plugin-development": {
+      "source": "WordPress/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/wp-plugin-development/SKILL.md",
+      "computedHash": "651097c46e4a1760e8b2c04d7ce291ced05d86219ecf01237aa22757eb12b3aa"
+    },
+    "wp-plugin-directory-guidelines": {
+      "source": "WordPress/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/wp-plugin-directory-guidelines/SKILL.md",
+      "computedHash": "214551228e091441521a69e15b0f71f5e4502db62c308963e1bbe9b944677cba"
+    },
+    "wp-project-triage": {
+      "source": "WordPress/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/wp-project-triage/SKILL.md",
+      "computedHash": "24bbc4e27291d7380ec0e06cb878158584b15ae5011bc1ab626e2d5a3ba27145"
+    },
+    "wp-rest-api": {
+      "source": "WordPress/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/wp-rest-api/SKILL.md",
+      "computedHash": "a4283296f79ea973766954fcedee5e94f0fdd81d2994ceced65406a2ece331ac"
+    },
+    "wp-wpcli-and-ops": {
+      "source": "WordPress/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/wp-wpcli-and-ops/SKILL.md",
+      "computedHash": "13231a1c83a82eff74946569ab247a279dfbe32b5ab4a328eaad7ab238e0ba85"
+    },
+    "wpds": {
+      "source": "WordPress/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/wpds/SKILL.md",
+      "computedHash": "bbc3ed47d2199b8b0ec14b5b068f26636a38194f2fe25f810e89d8c7c020867a"
+    },
+    "wrangler": {
+      "source": "cloudflare/skills",
+      "sourceType": "github",
+      "skillPath": "skills/wrangler/SKILL.md",
+      "computedHash": "fe86e9d59d65dd1b314587a57ac1800783a2ece0e30fbfdde9523a66c266f414"
+    },
+    "x-bookmark-quote-posts": {
+      "source": "getpoweredbyai/DesignSkills",
+      "sourceType": "github",
+      "skillPath": "agent-skills/codex/x-bookmark-quote-posts/SKILL.md",
+      "computedHash": "18a56b4e69880ea7a380d85b4a504e30002d78e727761830e01a72eae59ce8a5"
+    },
+    "xcode-project-setup": {
+      "source": "firebase/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/xcode-project-setup/SKILL.md",
+      "computedHash": "4a9dd789c0ec36ab3882b99a985c0fa2a7abf9bca04ac0d445be566e541d6231"
+    },
+    "zeigarnik-effect": {
+      "source": "Owl-Listener/designer-skills",
+      "sourceType": "github",
+      "skillPath": "interaction-design/skills/zeigarnik-effect/SKILL.md",
+      "computedHash": "cc1942930209cca128d60695c415dbe88ece7623566395353c2db72f849fc50d"
+    },
+    "zero-trust-assessment": {
+      "source": "UnitOneAI/SecuritySkills",
+      "sourceType": "github",
+      "skillPath": "skills/identity/zero-trust-assessment/SKILL.md",
+      "computedHash": "847afdc7a1fa58ab6c2bda183e6d71f222872995a60fc2b2dcfebe5b048664f2"
+    },
+    "zod": {
+      "source": "PyModel/react-frontend-skills",
+      "sourceType": "github",
+      "skillPath": "skills/zod/SKILL.md",
+      "computedHash": "d1ee5dda281efd4d31eac118ac5672c2cf787c7026d5ca5d7741483271472a33"
     }
   }
 }
