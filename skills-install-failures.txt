@@ -1,0 +1,2 @@
+﻿JPeetz/agent-skills --skill design-to-code (exit 1)
+dlazy-ai/ecommerce-skills --skill detect-task (exit 1)
